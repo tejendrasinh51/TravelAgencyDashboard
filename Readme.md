@@ -97,3 +97,8 @@ Tejendrasinh Sisodia
 
 This project is intended for educational and portfolio demonstration purposes. Data used is synthetic and does not represent real individuals or organizations.
 "# TravelAgencyDashboard" 
+
+
+![alt text](image.png)
+![alt text](ss1.png)
+
